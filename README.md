@@ -3,4 +3,4 @@ In this project you can select a wall pic for background and another picture for
 
 Firstly run "flutter pub get" and then just run code with the connected andoid or ios device.
 
-You are goog to go.
+You are good to go.
